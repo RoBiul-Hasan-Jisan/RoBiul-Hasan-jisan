@@ -114,9 +114,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoBiul-Hasan-Jisan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoBiul-Hasan-Jisan&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" width="48%" />
 </p>
+
 
 ---
 

@@ -119,8 +119,18 @@
 
 
 ---
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RoBiul-Hasan-Jisan&theme=tokyonight&margin-w=15&no-bg=true&title=Stars,Followers,Commit,Repositories,PullRequest,Issues,Contributed" /> </p>
+![Profile views](https://profile-counter.glitch.me/RoBiul-Hasan-Jisan/count.svg)
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoBiul-Hasan-Jisan&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
 
 <p align="center">
   🚀 Always curious, always building  
   🔥 Let's build the future together!
 </p>
+

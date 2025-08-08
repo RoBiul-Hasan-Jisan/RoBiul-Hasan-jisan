@@ -14,7 +14,7 @@
 - 📚 Currently learning: `Java`, `Python`, `Web Development`, and `Data Structures`
 - 💡 Interested in: Building developer tools and impactful applications
 - 🎯 Future goal: Become an **Expert Software Engineer**
-- 📫 Reach me on: [Facebook](https://www.facebook.com/robiulhasa88/)
+
 
 ---
 

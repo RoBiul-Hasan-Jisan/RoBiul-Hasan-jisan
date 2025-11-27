@@ -109,9 +109,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoBiul-Hasan-Jisan&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoBiul-Hasan-Jisan&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoBiul-Hasan-Jisan&layout=compact&theme=buefy&hide_border=true&langs_count=10" width="60%" />
+</div>
 
 
 ---

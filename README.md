@@ -21,29 +21,46 @@
 ## 🌐 Connect with Me
 
 <p align="left">
- 
-  
-  
-  
+
+  <!-- Website -->
+  <a href="https://robiulhasanjisan.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white" alt="Website"/>
+  </a>
+
+  <!-- GitHub -->
   <a href="https://github.com/RoBiul-Hasan-Jisan" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/robiulhasanjisan" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@robiulhasanjisan88" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+
+  <!-- CodeChef -->
   <a href="https://www.codechef.com/users/ro_biul_hasan" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 
+  <!-- Codeforces -->
   <a href="https://codeforces.com/profile/iamrobiulhasan" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
 
-  <a href="#" target="_blank" rel="noopener noreferrer">
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/lKSiWDIHN3/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=yellow" alt="LeetCode"/>
   </a>
+
 </p>
 
-
 ---
+
 
 ## 🛠️ Tech Stack
 

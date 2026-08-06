@@ -122,6 +122,8 @@
 
 [**Data Science Lab**](https://github.com/RoBiul-Hasan-Jisan/data-science-lab)  Curated collection of data science and machine learning projects with datasets, experiments, and analysis.
 
+[**PyTorch Tutorials**](https://github.com/RoBiul-Hasan-Jisan/PyTorch)  Practical PyTorch tutorials and deep learning implementations from basics to advanced topics.
+
 [**AlGORITHM**](https://github.com/RoBiul-Hasan-Jisan/CP_AlGORITHM-)  A repository of  algorithms and competitive programming solutions from LeetCode, ICPC, and Codeforces.
 
 ---

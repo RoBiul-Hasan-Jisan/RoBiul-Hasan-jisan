@@ -213,7 +213,7 @@ Creating solutions beyond experiments — engineering technology that makes a me
 
 [**YumTreat**](https://github.com/RoBiul-Hasan-Jisan/YumTreat) — Full-stack food ordering platform covering menu browsing, cart management, secure checkout, and real-time order tracking.
 
-[**4Loopers**](https://github.com/RoBiul-Hasan-Jisan/4loopers) — Full-stack application for managing and discovering movies.
+[**TrackFlix**](https://github.com/RoBiul-Hasan-Jisan/TrackFlix) — Full-stack application for managing and discovering movies.
 
 [**FinLife**](https://github.com/RoBiul-Hasan-Jisan/FinLife) — Complete personal finance and life management solution.
 

@@ -13,9 +13,7 @@ Creating solutions beyond experiments — engineering technology that makes a me
 
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RoBiul-Hasan-Jisan&label=Profile%20Views&style=flat-square" alt="Profile Views" />
-</p>
+
 
 ---
 
